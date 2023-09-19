@@ -25,10 +25,10 @@ La veritat es que si vull, puc ser molt llesti molt ajudador pero a vegades
  m'estresso molt.
 _______________________________________________________________________
 			   *Xarxes Socials*
-- [Instagram] (https://www.instagram.com/h.dr212/)
+- [Instagram](https://www.instagram.com/h.dr212/)
 _______________________________________________________________________
 			     Fotografia
- ![LaMevaFoto] (Hamza Derraz.png)
+ ![LaMevaFoto](hamza-derraz.png)
 
 ```int main() {
     int mes, dia;
