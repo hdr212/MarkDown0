@@ -28,7 +28,7 @@ _______________________________________________________________________
 - [Instagram] (https://www.instagram.com/h.dr212/)
 _______________________________________________________________________
 			     Fotografia
-![LaMevaFoto] (/home/smx2b/Imatges/Captures de pantalla/Hamza Derraz.png)
+ ![LaMevaFoto] (Hamza Derraz.png)
 
 ```int main() {
     int mes, dia;
