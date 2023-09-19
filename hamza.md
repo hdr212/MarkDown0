@@ -30,3 +30,12 @@ _______________________________________________________________________
 			     Fotografia
 ![LaMevaFoto] (/home/smx2b/Imatges/Captures de pantalla/Hamza Derraz.png)
 
+```int main() {
+    int mes, dia;
+    cout << "\t\t\tSIGNO ZODIACAL" << endl;
+    cout << "(1)Enero \t(2)Febrero \t(3)Marzo \t(4)Abril" << endl;
+    cout << "(5)Mayo \t(6)Junio \t(7)Julio \t(8)Agosto" << endl;
+    cout << "(9)Septiembre \t(10)Octubre \t(11)Noviembre \t(12)Diciembre" << endl << endl;
+    cout << "Ingrese la fecha de su cumpleaños (dia y mes):" << endl;
+    cin >> dia >> mes;```
+
